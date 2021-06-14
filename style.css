@@ -1,10 +1,12 @@
 .section{
     background-color: aqua;
-    color: rgb(204, 40, 40);
+    color: rgb(0, 0, 0);
 }
 
 .img {
     background-color: cadetblue;
+ 
+    
 }
 
 p{
@@ -14,10 +16,40 @@ p{
 
 .contact{
     background-color: turquoise;
+
+
     color: black;
+    
 }
 
 html{background-color: cornflowerblue;}
 header{
     background-color: crimson;
 }
+
+#goku {
+
+    display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+#text{
+    font-family:fantasy;
+}
+
+#bio {
+    font-size: 40px;
+    text-align: center;
+}
+
+#info{
+    line-height: 50px;
+    font-family: fantasy;
+}
+
+.sentence {
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+   text-align: center;
